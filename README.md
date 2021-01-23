@@ -1,2 +1,2 @@
-# MVP
+# FoodCompCapstone
 Created with CodeSandbox
